@@ -1,0 +1,57 @@
+.menu {
+    
+        font-family: "Roboto Mono", monospace;
+        letter-spacing: -0.05em;
+        font-weight: 400;
+        font-size: 0.875rem;
+        color: var(--black-lighter) !important;
+    
+}
+body {
+    background-color: #E9ECEF;
+    font-family: "Roboto Mono", monospace;
+}
+.merhaba {
+    position: relative;
+    top: 60px;
+    margin: 30px;
+    padding: 15px;
+}
+.liste1 {
+    list-style-type: none;
+    list-style: none;
+}
+.alt {
+    float: inline-end;
+}
+.sec-1 {
+    font-family: 'Edu QLD Beginner', cursive;
+    color: chocolate;
+}
+a {
+    color: blue;
+}
+.container {
+    font-size: 25px;
+    font-family: "Roboto Mono", monospace;
+}
+.sec-h {
+    margin: auto;
+    padding: 50px;
+    font-family: "Roboto Mono", monospace;
+        letter-spacing: -0.05em;
+        font-weight: 400;
+        font-size: 0.875rem;
+        color: var(--black-lighter) !important;
+}
+.sec-i {
+    text-align: center;
+}
+.iletisimformu {
+    margin: 25px;
+    padding: 20px;
+}
+.tablo {
+    margin: 30px;
+    padding: 15px;
+}
